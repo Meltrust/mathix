@@ -1,10 +1,10 @@
 # Mathix
 
-> A React app to do simple math and retrieve quotes.
+> A React app to do simple math and display inspiring quotes.
 
-![screenshot](./assets/img/app_screenshot.png)
+![screenshot](./app_screenshot.png)
 
-Mathix is a website for all fans of mathematics built with React.  It allows for simple calculations and read a random math-related quote.
+Mathix is a website for all fans of mathematics built with React.  It allows for simple calculations and read random math-related quotes.
 
 
 ## Made with
