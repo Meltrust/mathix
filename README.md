@@ -6,6 +6,10 @@
 
 Mathix is a website for all fans of mathematics built with React.  It allows for simple calculations and read random math-related quotes.
 
+## Live demo
+
+https://meltrust.github.io/mathix/
+
 
 ## Made with
 
