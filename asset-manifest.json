@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mathix/static/css/main.705f3d4d.chunk.css",
+    "main.js": "/mathix/static/js/main.39e67917.chunk.js",
+    "main.js.map": "/mathix/static/js/main.39e67917.chunk.js.map",
+    "runtime-main.js": "/mathix/static/js/runtime-main.4e3e5e4c.js",
+    "runtime-main.js.map": "/mathix/static/js/runtime-main.4e3e5e4c.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/mathix/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.23c95316.chunk.js": "/mathix/static/js/2.23c95316.chunk.js",
+    "static/js/2.23c95316.chunk.js.map": "/mathix/static/js/2.23c95316.chunk.js.map",
+    "static/js/3.05918462.chunk.js": "/mathix/static/js/3.05918462.chunk.js",
+    "static/js/3.05918462.chunk.js.map": "/mathix/static/js/3.05918462.chunk.js.map",
+    "index.html": "/mathix/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/mathix/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.705f3d4d.chunk.css.map": "/mathix/static/css/main.705f3d4d.chunk.css.map",
+    "static/js/2.23c95316.chunk.js.LICENSE.txt": "/mathix/static/js/2.23c95316.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e3e5e4c.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.23c95316.chunk.js",
+    "static/css/main.705f3d4d.chunk.css",
+    "static/js/main.39e67917.chunk.js"
+  ]
+}
