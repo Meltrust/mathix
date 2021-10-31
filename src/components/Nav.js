@@ -1,4 +1,4 @@
-import { AiOutlineMenu } from 'react-icons/ai';
+import { FiMenu } from 'react-icons/fi';
 import { NavLink } from 'react-router-dom';
 
 const NavBar = () => (
@@ -14,7 +14,7 @@ const NavBar = () => (
         aria-expanded="false"
         aria-label="Toggle navigation"
       >
-        <AiOutlineMenu style={{ color: 'white', fontSize: '25px' }} />
+        <FiMenu style={{ color: 'white', fontSize: '1.3rem' }} />
       </button>
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav ms-auto nav-bar">
