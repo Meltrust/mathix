@@ -1,3 +1,28 @@
 .gray-bg {
   background-color: #858694 !important;
 }
+
+/* Nav SPA */
+.nav-item a {
+  color: white;
+  padding: 0 10px;
+}
+
+.v-line {
+  width: 2px;
+  background-color: white;
+  margin: 0 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .nav-bar {
+    padding-bottom: 0.7rem;
+    padding-top: 0.7rem;
+  }
+
+  .nav-bar li {
+    font-size: 1.5rem;
+    padding: 0.7rem;
+    text-decoration: none;
+  }
+}
