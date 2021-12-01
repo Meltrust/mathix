@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# Mathix
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> A React app to do simple math and display inspiring quotes.
 
-## Available Scripts
+![screenshot](./app_screenshot.png)
 
-In the project directory, you can run:
+Mathix is a website for all fans of mathematics built with React.  It allows for simple calculations and read random math-related quotes.
 
-### `npm start`
+## Live demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+https://meltrust.github.io/mathix/
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+## Made with
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Javascript
+- Webpack
+- React
+- CSS3
+- HTML5
 
-### `npm run build`
+## Future Updates & Roadmap
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- More general styling.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To get a local copy up and running follow these simple example steps:
 
-### `npm run eject`
+1. Under the repository name, click the Clone or download green button.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![clone](https://user-images.githubusercontent.com/53324035/73660989-4451aa80-4667-11ea-8a89-176f89d6548a.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2.Copy the URL given by clicking the clipboard button
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+3.Open a terminal window in your local machine and change the current directory to the one you want the clone directory to be made.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+4.Type  git clone and the paste the URL you previusly copied to the clipboard
 
-## Learn More
+5.Change the current directory to the newly created folder
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+6.Open the index.html file on your browser. You can add and remove books which persist on browser reloads.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+7.In your terminal, `npm install` to install the dependencies.
 
-### Code Splitting
+8.Now run `npm start` and the app should appear on your browser.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Author
 
-### Analyzing the Bundle Size
+👤 **Miguel Tapia**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Github: [@meltrust](https://github.com/meltrust)
+- Linkedin: [linkedin](https://www.linkedin.com/in/meltrust/)
+- Or talk to me directly at: original.mtapia@outlook.com
 
-### Making a Progressive Web App
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Contributions, issues and feature requests are welcome!
 
-### Advanced Configuration
+Feel free to check the [issues page](issues/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Show your support
 
-### Deployment
+Give a ⭐️ if you like this project!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Acknowledgments
 
-### `npm run build` fails to minify
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
+
